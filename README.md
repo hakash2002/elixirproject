@@ -1,13 +1,22 @@
-## A simple key-value storage config with two nodes as default
+# A simple key-value storage config with two nodes as default
 
 ## To run the server:
 
-Type the followings in different terminals
+## Change your directory to 
 ```
- _build/prod/rel/bar and run bin/bar start
+ _build/prod/rel/bar
+```
+and run: 
+```
+bin/bar start
+```
 
+## In new terminal change the directory to
 ```
+ _build/prod/rel/foo  
+ 
 ```
- _build/prod/rel/foo and run bin/foo start 
-
+and run:
+```
+bin/foo start 
 ```
