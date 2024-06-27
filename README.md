@@ -14,7 +14,6 @@ bin/bar start
 ## In new terminal change the directory to
 ```
  _build/prod/rel/foo  
- 
 ```
 and run:
 ```
