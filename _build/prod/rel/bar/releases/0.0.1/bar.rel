@@ -1,0 +1,11 @@
+%% coding: utf-8
+{release,{"bar","0.0.1"},
+         {erts,"15.0"},
+         [{kernel,"10.0",permanent},
+          {stdlib,"6.0",permanent},
+          {elixir,"1.17.1",permanent},
+          {sasl,"4.2.2",permanent},
+          {player,"0.1.0",permanent},
+          {iex,"1.17.1",none},
+          {compiler,"8.5",permanent},
+          {logger,"1.17.1",permanent}]}.

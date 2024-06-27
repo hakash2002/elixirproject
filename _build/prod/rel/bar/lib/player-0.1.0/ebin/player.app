@@ -1,0 +1,12 @@
+{application,player,
+             [{config_mtime,1719398747},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger]},
+              {description,"player"},
+              {modules,['Elixir.Player','Elixir.Player.Api',
+                        'Elixir.Player.Bucket','Elixir.Player.Router',
+                        'Elixir.Player.Supervisor']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {env,[{routing_table,[]}]},
+              {mod,{'Elixir.Player',[]}}]}.

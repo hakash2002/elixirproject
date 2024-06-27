@@ -1,0 +1,11 @@
+{application,player_server,
+             [{config_mtime,1718964603},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger,player]},
+              {description,"player_server"},
+              {modules,['Elixir.PlayerServer',
+                        'Elixir.PlayerServer.Application',
+                        'Elixir.PlayerServer.Command']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.PlayerServer.Application',[]}}]}.
